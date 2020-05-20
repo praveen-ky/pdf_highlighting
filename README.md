@@ -19,4 +19,4 @@ I want to make it more user friendly and interactive and make it work with vario
 ie. i want to have a GUI Implementation
 
 KUDOS!! to anyone reading this, This is my first automation project. Hope this could be of your help. If any issues
-or suggestion feel free to hit me up at my <b>E Mail ID: pky24031999@gmail.com</b>
+or suggestion feel free to hit me up
