@@ -10,7 +10,7 @@ Install pandas // this is for taking data from the Excel and storing data in the
 
 
 
-<b>Wr Flow:</b>
+<b>Work Flow:</b>
 Stp 1) The names ae stored in the form of a list
 Step 2) The algorithm takes each element in the list one by one and finds it page by page in the PDF
 Step 3) Once it finds the required letter in PDF it gets highlighted
