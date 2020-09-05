@@ -9,6 +9,8 @@ Install pymuPDF // this is used to do operations on pdf such as reading, searchi
 Install pandas // this is for taking data from the Excel and storing data in the form of list
 
 
+yolo
+
 
 <b>Work Flow:</b>
 Stp 1) The names ae stored in the form of a list
