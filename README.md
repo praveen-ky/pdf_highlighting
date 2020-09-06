@@ -7,11 +7,6 @@ Automatically highlights the names in PDF by comparing it with the employee name
 Download all the files and the codes in the same directory.
 Install pymuPDF // this is used to do operations on pdf such as reading, searching and Highlighting 
 Install pandas // this is for taking data from the Excel and storing data in the form of list
-
-
-yolo
-
-
 <b>Work Flow:</b>
 Stp 1) The names ae stored in the form of a list
 Step 2) The algorithm takes each element in the list one by one and finds it page by page in the PDF
